@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\CatAndDogss\CatAndDogss\bin\Debug\CatAndDogss.exe.config
+C:\Users\opilane\source\repos\CatAndDogss\CatAndDogss\bin\Debug\CatAndDogss.exe
+C:\Users\opilane\source\repos\CatAndDogss\CatAndDogss\bin\Debug\CatAndDogss.pdb
+C:\Users\opilane\source\repos\CatAndDogss\CatAndDogss\bin\Debug\Newtonsoft.Json.dll
+C:\Users\opilane\source\repos\CatAndDogss\CatAndDogss\bin\Debug\Newtonsoft.Json.xml
+C:\Users\opilane\source\repos\CatAndDogss\CatAndDogss\obj\Debug\CatAndDogss.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\CatAndDogss\CatAndDogss\obj\Debug\CatAndDogss.Form1.resources
+C:\Users\opilane\source\repos\CatAndDogss\CatAndDogss\obj\Debug\CatAndDogss.Properties.Resources.resources
+C:\Users\opilane\source\repos\CatAndDogss\CatAndDogss\obj\Debug\CatAndDogss.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\CatAndDogss\CatAndDogss\obj\Debug\CatAndDogss.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\CatAndDogss\CatAndDogss\obj\Debug\CatAndDogss.csproj.CopyComplete
+C:\Users\opilane\source\repos\CatAndDogss\CatAndDogss\obj\Debug\CatAndDogss.exe
+C:\Users\opilane\source\repos\CatAndDogss\CatAndDogss\obj\Debug\CatAndDogss.pdb
